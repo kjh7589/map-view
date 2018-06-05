@@ -27,7 +27,7 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
-                        <outlet property="myMapview" destination="t9Z-yX-fHM" id="dBV-pk-kL7"/>
+                        <outlet property="myMapView" destination="t9Z-yX-fHM" id="caq-wu-mMX"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
